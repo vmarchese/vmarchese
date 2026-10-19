@@ -31,7 +31,7 @@ workloads and agents, retrieval and evaluation, Kubernetes.
 
 ## Background
 
-- Head of Technology Office (de facto CTO) at Poste Italiane since 2024, leading about
+- Head of Technology Office  at Poste Italiane since 2024, leading about
   200 engineers; before that, Head of Cloud Adoption and Technology Architecture (2018 to 2024).
 - Defined and led Poste's cloud-native transformation from scratch: a multi-hybrid cloud
   on owned data centers, Azure and AWS, now 50 OpenShift clusters.
