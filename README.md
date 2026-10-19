@@ -29,4 +29,14 @@ workloads and agents, retrieval and evaluation, Kubernetes.
 - Codemotion Milan 2024 · *Kubernetes Pod Identity in a Multi-Hybrid-Cloud Environment*
 - Red Hat Summit Connect 2021 · *Transform, Industrialize, Rinse, Repeat*
 
+## Background
+
+- Head of Technology Office (de facto CTO) at Poste Italiane since 2024, leading about
+  200 engineers; before that, Head of Cloud Adoption and Technology Architecture (2018 to 2024).
+- Defined and led Poste's cloud-native transformation from scratch: a multi-hybrid cloud
+  on owned data centers, Azure and AWS, now 50 OpenShift clusters.
+- Founder of Gigamips (2016 to 2018), a consultancy on distributed systems and Kubernetes.
+- PhD in Mechanical Engineering (aeroacoustics), Roma Tre; MSc in Aeronautical
+  Engineering, Sapienza.
+
 [LinkedIn](https://www.linkedin.com/in/vmarchese/)
